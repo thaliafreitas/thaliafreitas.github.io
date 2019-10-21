@@ -23,7 +23,7 @@ Syntax highlighted code block
 
 
 
-[Link](url) and ![Image](src)
+[Link](www.google.com.br) and ![Image](src)
 ```
 
 
