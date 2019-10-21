@@ -7,29 +7,12 @@ This page is used to inform visitors regarding our policies with the collection,
 If you choose to use our Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that we collect is used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.
 The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at Movinning unless otherwise defined in this Privacy Policy.
 
-
 ### **Information Collection and Use**
 
 Movinning is used primarily to promote the practice of sports and social interaction between users. As such, we collect and use your account data, such as your name and e-mail address, and your health data from your workout sessions (such as date, time, duration and type of activity) on HealthKit to track your physical and sports activity and reward you for completing goals that require you to practice specific activities. Every single information we get from HealthKit is only used to see your progress towards a goal: we only store the progress amount for each goal and We also use the team data to analyze and improve Movinning.
 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-
-
-
-[Link](www.google.com.br) and ![Image](src)
-```
-
-
 ### **Share**
 We DO NOT share your data to other companies or entities.
-
 
 ### **Sell** 
 We DO NOT sell your identifiable data in any situation to data brokers, marketing firms, advertising firms, or analytics firms, even AFTER removing identifiers. 
