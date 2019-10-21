@@ -1,4 +1,4 @@
-## Movinning Privacy Policy
+## Privacy Policy
 
 built the Movinning app as a Freemium app. This SERVICE is provided by at no cost and is intended for use as is.
 
