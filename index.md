@@ -11,13 +11,13 @@ The terms used in this Privacy Policy have the same meanings as in our Terms and
 
 Movinning is used primarily to promote the practice of sports and social interaction between users. As such, we collect and use your account data, such as your name and e-mail address, and your health data from your workout sessions (such as date, time, duration and type of activity) on HealthKit to track your physical and sports activity and reward you for completing goals that require you to practice specific activities. Every single information we get from HealthKit is only used to see your progress towards a goal: we only store the progress amount for each goal and We also use the team data to analyze and improve Movinning.
 
-## **Share**
+## **Data Share**
 We DO NOT share your data to other companies or entities.
 
-## **Sell** 
+## **Data Sell** 
 We DO NOT sell your identifiable data in any situation to data brokers, marketing firms, advertising firms, or analytics firms, even AFTER removing identifiers. 
 
-## **Store**
+## **Data Store**
 We store only your account data and your team on the device you’re using. All information related to HealthKit is maintained by the Health app on your iPhone 
 We store your account data outside the device in the cloud to allow you to restore your data and connect in groups with other people 
 
@@ -68,10 +68,10 @@ Os termos usados nesta Política de Privacidade têm os mesmos significados que 
 
 Movinning é usado principalmente para promover a prática de esportes e interação social entre usuários. Como tal, coletamos e usamos os dados da sua conta, como seu nome e endereço de e-mail, e os dados de saúde das sessões de treino (como data, hora, duração e tipo de atividade) no HealthKit para rastrear suas atividades físicas e esportivas, para assim recompensá-lo por concluir metas que exigem que você pratique atividades específicas. odas as informações que obtemos do HealthKit são usadas apenas para ver seu progresso em direção a uma meta: armazenamos apenas o valor do progresso para cada meta e também usamos os dados da equipe para analisar e melhorar o Movinning.
 
-## **Compartilhamento**
+## **Compartilhamento de dados**
 NÓS NÃO compartilhamos seus dados com outras empresas ou entidades.
 
-## **Venda* 
+## **Venda de dados** 
 NÓS NÃO vendemos seus dados identificáveis em nenhuma situação a corretores de dados, empresas de marketing, empresas de publicidade ou empresas de análise, mesmo depois de remover os identificadores. 
 
 ## **Armazenamento**
